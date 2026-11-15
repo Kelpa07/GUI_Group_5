@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+attendance_tracker.db
+attendance_tracker.db-*
+.venv/
+venv/
+.streamlit/secrets.toml
